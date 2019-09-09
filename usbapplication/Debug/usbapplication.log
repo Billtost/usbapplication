@@ -1,0 +1,3 @@
+﻿usbapplication.obj : error LNK2019: unresolved external symbol _libusb_init@4 referenced in function _main
+C:\Users\Bill\Desktop\projectOUT\MS64\dll\libusb-1.0.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Bill\source\repos\usbapplication\Debug\usbapplication.exe : fatal error LNK1120: 1 unresolved externals
